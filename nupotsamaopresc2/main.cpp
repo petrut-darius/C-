@@ -9,6 +9,7 @@ int main()
      int -> numar intreg
      float- -> numar cu zeciamala
      boolean -> adevarat sau fals
+    long long -> numar intreg mai mare ca un miliard
 
     if (conditie){
         daca conditia e adevarata sa faca asta
@@ -25,7 +26,7 @@ int main()
         i <= a -> cat timp i mai mic ca a sa se execute chestia asta
         i ++ -> dupa fiecare repetare a buclei sa se faca i++
     }
-
+    
 
     */return 0;
 }
